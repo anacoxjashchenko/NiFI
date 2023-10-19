@@ -67,7 +67,7 @@ Criar Processor PutFile
 ### No Terminal do Linux dentro do container lab-nifi_nifi_1
 Abrir Terminal do container
 ```
-docker exec -it lab-nifi_nifi_1 /bin/bash
+docker exec -it lab-nifi-nifi-1 /bin/bash
 ```
 ```
 cd ~
