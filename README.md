@@ -79,7 +79,7 @@ ls -ltr
 ## Criando tópico Kafka
 ### Terminal do Linux
 ```
-docker exec -it lab-nifi_kafka_1 /bin/bash
+docker exec -it lab-nifi-kafka-1 /bin/bash
 ```
 ```
 kafka-topics --bootstrap-server localhost:9092 --topic alunos --create
